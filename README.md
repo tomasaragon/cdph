@@ -3,7 +3,7 @@
 ![Decision Intelligence](./images/img_di_google_cdo.png)
 
 
-Tomás Aragón, MD, DrPH  
+Tomás Aragón, MD, DrPH 
 Former State Public Health Officer and Director  
 California Department of Public Health  
 [tomas.aragon@berkeley.edu](mailto:tomas.aragon@berkeley.edu) (email)  
@@ -81,7 +81,7 @@ Here is an alternative, but very informative, view of decision intelligence (see
 
 [^wequity]: Source: https://wequity.tech/decision-intelligence-and-design-thinking/
 
-<img src="./images/img_di_fig1.png" width="500">
+<img src="./images/img_di_fig1.png" width="500"> 
 
 <img src="./images/img_di_fig2.png" width="900">
 
