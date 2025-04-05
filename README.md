@@ -4,20 +4,34 @@
 
 
 Tomás Aragón, MD, DrPH  
-State Public Health Officer and Director  
+Former State Public Health Officer and Director  
 California Department of Public Health  
-[tomas.aragon@cdph.ca.gov](mailto:tomas.aragon@cdph.ca.gov) (email)  
-https://drtomasaragon.github.io/ (blog)
+[tomas.aragon@berkeley.edu](mailto:tomas.aragon@berkeley.edu) (email)  
+https://teampublichealth.substack.com/ (blog)
 
-[Decision-making is our most important activity](https://drtomasaragon.github.io/posts/2021-03-13-decision-intelligence01/).[^diblog] "A decision is a choice between two or more alternatives that involves an irrevocable allocation of resources." Decisions drive vision, strategy, policy, and transformational change. Every decision has causal assumptions, predictions, trade-offs, and an opportunity cost—the lost benefit of the better option(s) not chosen or not considered. Some decisions have extreme time constraints under deep uncertainty.
+## Decision-making is our most important activity
 
-[^diblog]: Tomas Aragon (2021). Decision intelligence: An Introduction. Available from: [https://drtomasaragon.github.io/posts/2021-03-13-decision-intelligence01/](https://drtomasaragon.github.io/posts/2021-03-13-decision-intelligence01/)
+“A decision is a choice between two or more
+alternatives that involves an irrevocable allocation
+of resources.” “...your decision-making is the
+single most important thing you have control over
+that will help you achieve your goals.” Every
+decision has causal assumptions, predictions, and
+opportunity costs—the lost benefits of the better
+option(s) not chosen or not considered.
+
+[Human Decision Intelligence](https://teampublichealth.substack.com/t/human-decision-intelligence) is using ethics,
+science, and technology to improve individual and
+team decision-making in the face of uncertainty,
+trade-offs, and time constraints. HDI prioritizes
+improving human decision-making capabilities.
+
+
 
 Decision intelligence is using ethics, science, and technology to improve individual and team decisions for finding and solving problems, and achieving objectives and key results in challenging, including VUCA,[^1] environments (Figure 1).
 
 ![Decision Intelligence](./images/img_di_venn.png)
 
-[^1]: volatile, uncertain, complex, and ambiguous
 
 The CDPH Office of Policy and Planning will have a Decision Intelligence Unit (DIU) to develop, implement, and improve strategic decision-making methods for high stakes, high cost, and high impact public health decisions. Methods will include cost-benefit and cost-effective analyses, and decision analysis. These positions have permanent funding. We will secure grants and develop collaborative partnerships with academic institutions. The major areas of initial focus, development, and collaboration will be
 
