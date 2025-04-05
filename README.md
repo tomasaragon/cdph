@@ -29,8 +29,8 @@ improving human decision-making capabilities.
 
 <p align="center">
   <img src="./images/DI_human_decision_intelligence_DQplus.png" width="480" >
-  <caption align="center">This is the image caption.</caption>
-</>
+  <caption>This is the image caption.</caption
+</p>
 
 
 The CDPH Office of Policy and Planning will have a Decision Intelligence Unit (DIU) to develop, implement, and improve strategic decision-making methods for high stakes, high cost, and high impact public health decisions. Methods will include cost-benefit and cost-effective analyses, and decision analysis. These positions have permanent funding. We will secure grants and develop collaborative partnerships with academic institutions. The major areas of initial focus, development, and collaboration will be
