@@ -27,7 +27,7 @@ trade-offs, and time constraints. HDI prioritizes
 improving human decision-making capabilities.
 
 
-![Human Decision Intelligence](./images/DI_human_decision_intelligence_DQplus.png)
+![Human Decision Intelligence](./images/DI_human_decision_intelligence_DQplus.png | width=200)
 
 
 The CDPH Office of Policy and Planning will have a Decision Intelligence Unit (DIU) to develop, implement, and improve strategic decision-making methods for high stakes, high cost, and high impact public health decisions. Methods will include cost-benefit and cost-effective analyses, and decision analysis. These positions have permanent funding. We will secure grants and develop collaborative partnerships with academic institutions. The major areas of initial focus, development, and collaboration will be
