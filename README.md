@@ -29,6 +29,7 @@ improving human decision-making capabilities.
 
 <p align="center">
   <img src="./images/DI_human_decision_intelligence_DQplus.png" width="480" >
+  <figcaption>This is the image caption.</figcaption>
 </p>
 
 
