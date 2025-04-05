@@ -26,6 +26,7 @@ team decision-making in the face of uncertainty,
 trade-offs, and time constraints. HDI prioritizes
 improving human decision-making capabilities.
 
+<img src="./images/DI_human_decision_intelligence_DQplus.png" width="200">
 
 ![Human Decision Intelligence](./images/DI_human_decision_intelligence_DQplus.png | width=200)
 
