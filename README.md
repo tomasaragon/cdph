@@ -20,13 +20,13 @@ decision has causal assumptions, predictions, and
 opportunity costs—the lost benefits of the better
 option(s) not chosen or not considered.
 
-[Human Decision Intelligence](https://teampublichealth.substack.com/t/human-decision-intelligence) ((Figure 1)) is using ethics,
+[Human Decision Intelligence](https://teampublichealth.substack.com/t/human-decision-intelligence) (Figure 1) is using ethics,
 science, and technology to improve individual and
 team decision-making in the face of uncertainty,
 trade-offs, and time constraints. HDI prioritizes
 improving human decision-making capabilities.
 
-<center><img src="./images/DI_human_decision_intelligence_DQplus.png" width="480" \><\center>
+<img src="./images/DI_human_decision_intelligence_DQplus.png" width="480" \>
 
 
 
