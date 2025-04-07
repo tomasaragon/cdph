@@ -68,7 +68,7 @@ The DIU is part of CDPH's longer term strategy to build our capability in popula
 Visit Team Public Health to learn more about [human decision intelligence](https://teampublichealth.substack.com/t/human-decision-intelligence).
 
 
-[^a]: Judea Pearl and Dana Mackenzie, The Book of Why: The New Science of Cause and Effect, First trade paperback edition (New York: Basic Books, 2020).
+[^a]: Judea Pearl and Dana Mackenzie, The Book of Why: The New Science of Cause and Effect, First trade paperback edition (New York: Basic Books, 2020), https://www.hachettebookgroup.com/titles/judea-pearl/the-book-of-why/9780465097616/?lens=basic-books.
 
 [^b]: Decision analysis, cost-effectiveness/benefit analysis, mathematical modeling, operations research, etc.
 
