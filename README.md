@@ -37,13 +37,14 @@ The CDPH Office of Policy and Planning will have a Decision Intelligence Unit (D
 
 1.	Leaders and managers as "decision architects": Design and improve of team decision meetings that incorporate fundamentals of cognitive psychology and decision quality. See Annie Duke, 2020.[^htd]
 2.	Methods to optimize policy, budgetary, or prioritization decisions: cost-effectiveness and cost-benefit analyses; and priority setting and resource allocation (PSRA). See Seixas, 2021.[^bvs]
-3.	Decision making under uncertainty, including [deep uncertainty](https://www.rand.org/pubs/external_publications/EP67833.html) (ie, risks not calculable)
+3.	Decision making under uncertainty, including [deep uncertainty](https://www.rand.org/pubs/external_publications/EP67833.html)[^dmdu]
 4.	[Computational algorithms for decision making](https://algorithmsbook.com/) (using Bayesian networks (including decision networks [influence diagrams]), Markov Decision Processes (MDPs), Partially Observable Markov Decision Processes (POMDPs), Reinforcement Learning, Agent-based modeling)
 
 [^htd]: Annie Duke, How to Decide: Simple Tools for Making Better Choices (Penguin Publishing Group, 2020), https://www.annieduke.com/books/.
 
 [^bvs]: Brayan V. Seixas, François Dionne, and Craig Mitton, “Practices of Decision Making in Priority Setting and Resource Allocation: A Scoping Review and Narrative Synthesis of Existing Frameworks,” Health Economics Review 11, no. 1 (January 7, 2021): 2, https://doi.org/10.1186/s13561-020-00300-0.
 
+[^dmdu]: Vincent A. W. J. Marchau, Decision Making under Deep Uncertainty: From Theory to Practice, 1st ed (Cham: Springer International Publishing AG, 2019), https://link.springer.com/book/10.1007/978-3-030-05252-2.
 
 The DIU will have a trans-disciplinary team:
 
