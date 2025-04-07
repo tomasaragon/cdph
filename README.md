@@ -35,7 +35,7 @@ improving human decision-making capabilities.
 
 The CDPH Office of Policy and Planning will have a Decision Intelligence Unit (DIU) to develop, implement, and improve strategic decision-making methods for high stakes, high cost, and/or high impact public health decisions. Methods will include cost-benefit and cost-effective analyses, and decision analysis. These positions have permanent funding. We will secure grants and develop collaborative partnerships with academic institutions. 
 
--	Leaders and managers as "decision architects": Design and improve of team decision meetings that incorporate cognitive psychology and decision quality. See Annie Duke, 2020.[^htd]
+-	Leaders and managers as "decision architects": Design and improve of team decision meetings that incorporate fundamentals of cognitive psychology and decision quality. See Annie Duke, 2020.[^htd]
 -	Methods to optimize policy, budgetary, or prioritization decisions: cost-effectiveness and cost-benefit analyses; and priority setting and resource allocation (PSRA). See Seixas, 2021.[^bvs]
 -	Decision making under uncertainty, including [deep uncertainty](https://www.rand.org/pubs/external_publications/EP67833.html) (ie, risks not calculable)
 -	[Computational algorithms for decision making](https://algorithmsbook.com/) (using Bayesian networks (including decision networks [influence diagrams]), Markov Decision Processes (MDPs), Partially Observable Markov Decision Processes (POMDPs), Reinforcement Learning, Agent-based modeling)
