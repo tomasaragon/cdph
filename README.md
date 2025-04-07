@@ -32,14 +32,16 @@ improving human decision-making capabilities.
 </p>
 
 
-The CDPH Office of Policy and Planning will have a Decision Intelligence Unit (DIU) to develop, implement, and improve strategic decision-making methods for high stakes, high cost, and high impact public health decisions. Methods will include cost-benefit and cost-effective analyses, and decision analysis. These positions have permanent funding. We will secure grants and develop collaborative partnerships with academic institutions. The major areas of initial focus, development, and collaboration will be
+The CDPH Office of Policy and Planning will have a Decision Intelligence Unit (DIU) to develop, implement, and improve strategic decision-making methods for high stakes, high cost, and/or high impact public health decisions. Methods will include cost-benefit and cost-effective analyses, and decision analysis. These positions have permanent funding. We will secure grants and develop collaborative partnerships with academic institutions. 
 
+-	[Leaders and managers as "decision architects"]():[^htd] Design and improve of team decision meetings that incorporate cognitive psychology and decision quality. See Annie Duke, 2020.[^htd]
+-	Methods to optimize policy, budgetary, or prioritization decisions: cost-effectiveness and cost-benefit analyses; and priority setting and resource allocation (PSRA). See Seixas, 2021.[^bvs]
 -	Decision making under uncertainty, including [deep uncertainty](https://www.rand.org/pubs/external_publications/EP67833.html) (ie, risks not calculable)
--	Methods to optimize policy and regulatory decisions; conduct cost-effectiveness and cost-benefit analyses; and program budgeting and marginal analysis (PBMA)
 -	[Computational algorithms for decision making](https://algorithmsbook.com/) (using Bayesian networks (including decision networks [influence diagrams]), Markov Decision Processes (MDPs), Partially Observable Markov Decision Processes (POMDPs), Reinforcement Learning, Agent-based modeling)
--	[Leaders/managers as decision architects](https://hbr.org/2015/05/leaders-as-decision-architects):[^da] Design and improve of team decision meetings that incorporate cognitive psychology and behavioral economics
 
-[^da]: John Beshears and Francesca Gino (2015). Leaders as Decision Architects: Structure your organization’s work to encourage wise choices. Harvard Business Review. Available from:  [https://hbr.org/2015/05/leaders-as-decision-architects](https://hbr.org/2015/05/leaders-as-decision-architects)
+[^htd]: Annie Duke, How to Decide: Simple Tools for Making Better Choices (Penguin Publishing Group, 2020), https://www.annieduke.com/books/.
+
+[^bvs]: Brayan V. Seixas, François Dionne, and Craig Mitton, “Practices of Decision Making in Priority Setting and Resource Allocation: A Scoping Review and Narrative Synthesis of Existing Frameworks,” Health Economics Review 11, no. 1 (January 7, 2021): 2, https://doi.org/10.1186/s13561-020-00300-0.
 
 
 The DIU will have a trans-disciplinary team:
