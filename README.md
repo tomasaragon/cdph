@@ -98,4 +98,4 @@ Here is an alternative, but very informative, view of decision intelligence (see
   <img src="./images/img_di_fig2.png" width="900">
 </p>
 
-
+## Footnotes
