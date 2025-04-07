@@ -21,7 +21,7 @@ opportunity costs—the lost benefits of the better
 option(s) not chosen or not considered.
 
 In service of our values and goals, [human Decision Intelligence](https://teampublichealth.substack.com/t/human-decision-intelligence) (Figure 1) is using ethics,
-science, and technology to improve team decision-making in the face of uncertainty,
+science, and technology to improve team decision-making and outcomes in the face of uncertainty,
 trade-offs, and time constraints. HDI prioritizes
 improving human decision-making capabilities.
 
@@ -62,6 +62,9 @@ The DIU is part of CDPH's longer term strategy to build our capability in popula
 |4| Simulation | a. modeling for epidemiologic or decision insights|
 |5| Optimization[^b] | a. optimizing decision, effectiveness, or efficiency metrics|
 
+Visit Team Public Health to learn more about [human decision intelligence](https://teampublichealth.substack.com/t/human-decision-intelligence).
+
+
 [^a]: Causal inference. See Judea Pearl. The Book of Why: The new science of cause and effect. Penguin 2019
 
 [^b]: Decision analysis, cost-effectiveness/benefit analysis, mathematical modeling, operations research, etc.
@@ -72,7 +75,7 @@ Here is a graphical depiction of the Table.[^bayesialab] We aim to embrace our "
 
 [^bayesialab]: Source: https://www.bayesia.com/articles/#!bayesialab-knowledge-hub/1-introduction 
 
-To learn more about books relevant to decision intelligence, [here is my list](https://drtomasaragon.github.io/posts/2022-08-20-decision-intelligence-books/).
+To learn more about books relevant to decision intelligence, [here is my list](https://teampublichealth.substack.com/p/what-should-i-read-to-improve-my).
 
 ## Appendix
 
