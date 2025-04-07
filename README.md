@@ -3,7 +3,7 @@
 ![Decision Intelligence](./images/img_di_google_cdo.png)
 
 
-Tomás Aragón, MD, DrPH 
+Tomás Aragón, MD, DrPH  
 Former State Public Health Officer and Director  
 California Department of Public Health  
 [tomas.aragon@berkeley.edu](mailto:tomas.aragon@berkeley.edu) (email)  
