@@ -74,7 +74,9 @@ Visit Team Public Health to learn more about [human decision intelligence](https
 
 Here is a graphical depiction of the Table.[^bayesialab] We aim to embrace our "reasoning" to make better decisions.
 
-![Population Health Data Science](./images/img_phds.png)
+<p align="center">
+  <img src="./images/img_phds.png" width="600">
+</p>
 
 [^bayesialab]: Source: https://www.bayesia.com/articles/#!bayesialab-knowledge-hub/1-introduction 
 
