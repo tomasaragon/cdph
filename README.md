@@ -1,7 +1,8 @@
 # CDPH is building a Decision Intelligence Unit
 
-![Decision Intelligence](./images/img_di_google_cdo.png)
-
+<p align="center">
+  <img src="./images/img_di_google_cdo.png" width="800">
+</p>
 
 Tomás Aragón, MD, DrPH  
 Former State Public Health Officer and Director  
@@ -75,7 +76,7 @@ Visit Team Public Health to learn more about [human decision intelligence](https
 Here is a graphical depiction of the Table.[^bayesialab] We aim to embrace our "reasoning" to make better decisions.
 
 <p align="center">
-  <img src="./images/img_phds.png" width="600">
+  <img src="./images/img_phds.png" width="800">
 </p>
 
 [^bayesialab]: Source: https://www.bayesia.com/articles/#!bayesialab-knowledge-hub/1-introduction 
