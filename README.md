@@ -89,7 +89,13 @@ Here is an alternative, but very informative, view of decision intelligence (see
 
 [^wequity]: Source: https://wequity.tech/decision-intelligence-and-design-thinking/
 
-<img src="./images/img_di_fig1.png" width="500"> 
+<p align="center">
+  <img src="./images/img_di_fig1.png" width="500">
+</p>
 
-<img src="./images/img_di_fig2.png" width="900">
+
+<p align="center">
+  <img src="./images/img_di_fig2.png" width="900">
+</p>
+
 
