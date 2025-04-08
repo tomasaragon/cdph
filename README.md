@@ -26,6 +26,10 @@ science, and technology to improve team decision-making and outcomes in the face
 **trade-offs**, and **time constraints**. HDI prioritizes
 improving human decision-making capabilities.
 
+<figure style="text-align: center;">
+  <img src="./images/DI_human_decision_intelligence_DQplus.png" width="480" alt="Human Decision Intelligence Diagram">
+  <figcaption>Figure: Human Decision Intelligence Framework</figcaption>
+</figure>
 
 
 <p align="center">
