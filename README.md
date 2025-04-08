@@ -27,7 +27,7 @@ science, and technology to improve team decision-making and outcomes in the face
 improving human decision-making capabilities.
 
 <p align="center">
-  <img src="./images/DI_human_decision_intelligence_DQplus.png" width="480"><\ br>
+  <img src="./images/DI_human_decision_intelligence_DQplus.png" width="480"><br>
    <caption>Figure: Human Decision Intelligence Framework</caption>
 </p>
 
