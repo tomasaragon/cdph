@@ -26,15 +26,9 @@ science, and technology to improve team decision-making and outcomes in the face
 **trade-offs**, and **time constraints**. HDI prioritizes
 improving human decision-making capabilities.
 
-<figure style="text-align: center;">
-  <img src="./images/DI_human_decision_intelligence_DQplus.png" width="480" alt="Human Decision Intelligence Diagram">
-  <figcaption>Figure: Human Decision Intelligence Framework</figcaption>
-</figure>
-
-
 <p align="center">
-  <img src="./images/DI_human_decision_intelligence_DQplus.png" width="480">
-   <caption align="center">Figure: Human Decision Intelligence Framework</caption>
+  <img src="./images/DI_human_decision_intelligence_DQplus.png" width="480"><\ br>
+   <caption>Figure: Human Decision Intelligence Framework</caption>
 </p>
 
 The CDPH Office of Policy and Planning will have a Decision Intelligence Unit (DIU) to develop, implement, and improve strategic decision-making methods for high stakes, high cost, and/or high impact public health decisions. Methods will include cost-benefit and cost-effective analyses, and decision analysis. These positions have permanent funding. We will secure grants and develop collaborative partnerships with academic institutions. 
