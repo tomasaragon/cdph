@@ -31,6 +31,13 @@ improving human decision-making capabilities.
    <caption>Figure: Human Decision Intelligence Framework</caption>
 </p>
 
+<figure>
+  <p align="center">
+    <img src="./images/DI_human_decision_intelligence_DQplus.png" width="480" alt="Human Decision Intelligence Framework">
+  </p>
+  <figcaption style="text-align: center;">Figure: Human Decision Intelligence Framework</figcaption>
+</figure>
+
 The CDPH Office of Policy and Planning will have a Decision Intelligence Unit (DIU) to develop, implement, and improve strategic decision-making methods for high stakes, high cost, and/or high impact public health decisions. Methods will include cost-benefit and cost-effective analyses, and decision analysis. These positions have permanent funding. We will secure grants and develop collaborative partnerships with academic institutions. 
 
 1.	Team leaders and managers as "decision architects": Design and improve of team decision meetings that incorporate fundamentals of cognitive psychology and decision quality. See Annie Duke, 2020[^htd] and Spetzler, 2016.[^dqbook]
