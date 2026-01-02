@@ -1,4 +1,4 @@
-# CDPH is building a Decision Intelligence Unit
+# CDPH has a Decision Intelligence Section
 
 <p align="center">
   <img src="./images/img_di_google_cdo.png" width="800">
